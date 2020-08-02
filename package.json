@@ -12,10 +12,6 @@
     "url": "git@github.com:eroak/rpi-433.git"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "install": "mkdir ./build && cd ./src && /usr/bin/make"
-  },
   "keywords": [
     "raspberry",
     "rasp",
